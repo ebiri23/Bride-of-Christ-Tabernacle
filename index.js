@@ -18,7 +18,7 @@ style="border-radius: 0px 0px 30px 30px; padding: 4px; background-color: rgb(206
                 <a class="nav-link active" aria-current="page" href="">Home</a>
             </li>
             <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="Pastor/index.html">Pastor's office</a>
+                        <a class="nav-link active" aria-current="page" href="Pastor/">Pastor's office</a>
                     </li>
             <li class="nav-item">
                 <button class="nav-link" onclick="BoyntonBeachChurchConvention()">Convention</button>
@@ -146,7 +146,7 @@ function BoyntonBeachChurchCreateAnAccount(){
                           <button class="nav-link active" onclick="BoyntonBeachChurchFrançais()">Accueil</button>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="Pastor/pasteur.html">Bureau du Pasteur</a>
+                        <a class="nav-link active" aria-current="page" href="Pastor/pasteur">Bureau du Pasteur</a>
                     </li>
                       <li class="nav-item">
                           <button class="nav-link" onclick="BoyntonBeachChurchConventionF()">Convention</button>
@@ -271,7 +271,7 @@ function BoyntonBeachChurchCreateAnAccount(){
                             <button class="nav-link active" onclick="BoyntonBeachChurchFrançais()">Accueil</button>
                         </li>
                         <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="Pastor/pasteur.html">Bureau du Pasteur</a>
+                        <a class="nav-link active" aria-current="page" href="Pastor/pasteur">Bureau du Pasteur</a>
                     </li>
                         <li class="nav-item">
                             <button class="nav-link" onclick="BoyntonBeachChurchConventionF()">Convention</button>
