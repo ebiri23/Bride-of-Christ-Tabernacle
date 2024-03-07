@@ -55,14 +55,23 @@ function BoyntonBeachChurchConvention(){
         </div>
     </div></div>`};
 function BoyntonBeachChurchAbout(){
-    document.body.innerHTML = `${BoyntonChurchNav}<div style="background-color: white; padding: 30px; border-radius: 30px;"> <h6>The Bride of Christ Tabernacle</h6><p>is a church of the message in Boynton Beach. We are a church of the message of the end of time. We enter into collaboration with other ministries around the world to help those in need, especially in Haiti. We believe in the Lord Jesus as Christ. To come to the Lord Jesus Christ, you must apply Acts 2:38, which means baptism in the name of Jesus Christ. We believe in the doctrine of rapture, for one day the Lord Jesus Christ will come to take his Holy Bride to be with him in heaven. To resume our faith and doctrine is to say we believe the Holy Bible from the Book of Genesis to the book of Revelation.</p></div>`
+    document.body.innerHTML = `${BoyntonChurchNav}  <div style="background-color: white; padding: 30px; border-radius: 30px;"> <h6>The Bride of Christ Tabernacle</h6><br>
+        <div>
+          <h4 style="text-align: center;">
+            <audio controls>
+              <source src="churchabout.mp3" type="audio/mpeg">
+              <source src="churchabout.ogg" type="audio/ogg">
+            </audio>
+          </h4>
+        </div>
+        <br><p>is a church of the message in Boynton Beach. We are a church of the message of the end of time. We enter into collaboration with other ministries around the world to help those in need, especially in Haiti. We believe in the Lord Jesus as Christ. To come to the Lord Jesus Christ, you must apply Acts 2:38, which means baptism in the name of Jesus Christ. We believe in the doctrine of rapture, for one day the Lord Jesus Christ will come to take his Holy Bride to be with him in heaven. To resume our faith and doctrine is to say we believe the Holy Bible from the Book of Genesis to the book of Revelation.</p></div>`
 };
 function BoyntonBeachChurchContact(){
     document.body.innerHTML = `${BoyntonChurchNav}<div style="background-color: white; padding: 30px; border-radius: 30px;"><h5>202 N.East 11th Ave.</h5> <h5>Boynton Beach, Fl 33435</h5><br><br><h5>&#9742;
     <i class="fab fa-whatsapp fa-1x" style="color:green"></i>&#128241;(561) 752-8452</h5> <br><br><h5>Social Media:</h5><a href="https://www.facebook.com/Bchristtab"><i class="fab fa-facebook fa-1x"
     style="color:rgb(71, 107, 185); width: 25px;"></i></a>
 <a href="https://www.youtube.com/@brideofchristtabernacle"><i class="fab fa-youtube fa-1x"
-    style="color:rgb(231, 11, 11); width: 25px;"></i></a></div>`
+    style="color:rgb(231, 11, 11); width: 25px;"></i></a><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3569.4810789530006!2d-80.06521322457345!3d26.536808876873355!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88d8df2e70673999%3A0xddcd8bb780a6066f!2s202%20NE%2011th%20Ave%2C%20Boynton%20Beach%2C%20FL%2033435%2C%20USA!5e0!3m2!1sen!2sar!4v1709854363131!5m2!1sen!2sar" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>`
 };
 function BoyntonBeachChurchMinistry(){
     document.body.innerHTML = `${BoyntonChurchNav}<div style="background-color: white; padding: 30px; border-radius: 30px;"><h4>Pastor: Louis Jean</h4><br><br><h6>Song Leader: </h6><h5> Br. Obento Philogene, Br. Presly Jean Baptiste, Br Roosevelt, Br. Vince Desrosiers</h5><br><h6>Preacher: </h6><h5> Br. Vainqueur Pierre, Br. Serge Vilvar, Br Ancy Metellus, Br Berthony Jean-Charles, Br David Marajh</h5> <br><h6>Interpreter: </h6><h5> Br. Henderson Metellus, Br Stanley </h5></div>`
@@ -179,14 +188,23 @@ function BoyntonBeachChurchCreateAnAccount(){
             </div>
         </div></div>`};
         function BoyntonBeachChurchAboutF(){
-            document.body.innerHTML = `${BoyntonChurchNavF}<div style="background-color: white; padding: 30px; border-radius: 30px;"> <h6>Tabernacle de l'Épouse du Christ</h6><p>est une église du message à Boynton Beach. Nous sommes une église du message de la fin des temps. Nous entrons en collaboration avec d'autres ministères à travers le monde pour aider ceux qui en ont besoin, notamment en Haïti. Nous croyons au Seigneur Jésus comme Christ. Pour venir au Seigneur Jésus-Christ, vous devez appliquer Actes 2 :38, qui signifie le baptême au nom de Jésus-Christ. Nous croyons en la doctrine de l'enlèvement, car un jour, le Seigneur Jésus-Christ viendra prendre sa Sainte Épouse pour être avec lui au ciel. En conclusion notre foi et notre doctrine est la parole de Dieu, c'est-à-dire: nous croyons à la Sainte Bible, du livre de Genèse au livre d'Apocalypse.</p></div>`
+            document.body.innerHTML = `${BoyntonChurchNavF}<div style="background-color: white; padding: 30px; border-radius: 30px;"> <h6>Tabernacle de l'Épouse du Christ</h6><br>
+        <div>
+          <h4 style="text-align: center;">
+            <audio controls>
+              <source src="churchaboutf.mp3" type="audio/mpeg">
+              <source src="churchaboutf.ogg" type="audio/ogg">
+            </audio>
+          </h4>
+        </div>
+        <br><p>est une église du message à Boynton Beach. Nous sommes une église du message de la fin des temps. Nous entrons en collaboration avec d'autres ministères à travers le monde pour aider ceux qui en ont besoin, notamment en Haïti. Nous croyons au Seigneur Jésus comme Christ. Pour venir au Seigneur Jésus-Christ, vous devez appliquer Actes 2 :38, qui signifie le baptême au nom de Jésus-Christ. Nous croyons en la doctrine de l'enlèvement, car un jour, le Seigneur Jésus-Christ viendra prendre sa Sainte Épouse pour être avec lui au ciel. En conclusion notre foi et notre doctrine est la parole de Dieu, c'est-à-dire: nous croyons à la Sainte Bible, du livre de Genèse au livre d'Apocalypse.</p></div>`
         };
         function BoyntonBeachChurchContactF(){
             document.body.innerHTML = `${BoyntonChurchNavF}<div style="background-color: white; padding: 30px; border-radius: 30px;"><h5>202 N.East 11th Ave.</h5> <h5>Boynton Beach, Fl 33435</h5><br><br><h5>&#9742;
             <i class="fab fa-whatsapp fa-1x" style="color:green"></i>&#128241;(561) 752-8452</h5> <br><br><h5>Réseaux Sociaux:</h5><a href="https://www.facebook.com/Bchristtab"><i class="fab fa-facebook fa-1x"
             style="color:rgb(71, 107, 185); width: 25px;"></i></a>
         <a href="https://www.youtube.com/@brideofchristtabernacle"><i class="fab fa-youtube fa-1x"
-            style="color:rgb(231, 11, 11); width: 25px;"></i></a></div>`
+            style="color:rgb(231, 11, 11); width: 25px;"></i></a><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3569.4810789530006!2d-80.06521322457345!3d26.536808876873355!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88d8df2e70673999%3A0xddcd8bb780a6066f!2s202%20NE%2011th%20Ave%2C%20Boynton%20Beach%2C%20FL%2033435%2C%20USA!5e0!3m2!1sen!2sar!4v1709854363131!5m2!1sen!2sar" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>`
         };
         function BoyntonBeachChurchMinistryF(){
             document.body.innerHTML = `${BoyntonChurchNavF}<div style="background-color: white; padding: 30px; border-radius: 30px;"><h4>Pasteur: Louis Jean</h4><br><br><h6>Conducteur de chant: </h6><h5> Fr. Obento Philogene, Fr. Presly Jean Baptiste, Fr Roosevelt, Fr. Vince Desrosiers</h5><br><h6>Prédicateur: </h6><h5> Fr. Vainqueur Pierre, Fr. Serge Vilvar, Fr Ancy Metellus, Fr Berthony Jean-Charles, Fr David Marajh</h5><br><h6>Interprète: </h6><h5> Fr. Henderson Metellus, Fr Stanley</h5></div>`
